@@ -1,11 +1,11 @@
-- Noakun/Nanbuです!
-  最近PythonでDiscord botが作れるようになりました。
+Noakun/Nanbuです!
 
-- 9月15日時点では Noakun Bot | NS Bot この二つを開発しています。
+Python/index.js/htmlができます。
 
-- まだ初心者ですが、よろしくお願いします!
+最近はサイト作ったり、Discord Bot 作ったりしてます。
 
-<------------------------->
-Discord Bot 作るのは楽しいぞ
-<------------------------->
+目標は「Discord Bot で地震情報を自動読み上げしてくれるBotを作ること。」 です!
+
+よろしくお願いします。
+
 ![Metrics](/github-metrics.svg)
