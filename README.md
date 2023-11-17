@@ -3,8 +3,8 @@
   <a href="https://github.com/Nooooooo-0328/Nooooooo-0328/">
     <img src="https://komarev.com/ghpvc/?username=Nooooooo-0328" alt="Nooooooo-0328" />
   </a>
-  <a href="http://twitter.com/Nooooooo-0328">
-    <img height="20" src="https://img.shields.io/twitter/follow/Nooooooo-0328?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/Nooooooo_0328">
+    <img height="20" src="https://img.shields.io/twitter/follow/Nooooooo_0328?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Nooooooo-0328">
     <img height="20" src="https://img.shields.io/github/followers/Nooooooo-0328?label=follow&logo=github&style=flat" />
