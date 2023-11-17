@@ -9,4 +9,8 @@
   <a href="https://github.com/Nooooooo-0328">
     <img height="20" src="https://img.shields.io/github/followers/Nooooooo-0328?label=follow&logo=github&style=flat" />
   </a>
+  <a>
+  http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nooooooo-0328&theme=Nooooooo-0328&exclude=Nooooooo-0328
+  </a>
 </p>
+
