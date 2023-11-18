@@ -5,6 +5,7 @@
 Python/JavaScript/html/css/C#ができます。
 
 
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&count_private=true&show_icons=true&theme=onedark"/><br>
   <a href="https://github.com/Nooooooo-0328/Nooooooo-0328/">
