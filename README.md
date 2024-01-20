@@ -6,10 +6,13 @@ Python/JavaScript/html/css/C#ができます。
 
 Noooooooが開発したサイト一覧
 
-1- [Noooooooのサイト](https://nooooooo-0328.github.io/Nooooooo-site/)\n
-2- [Nanbu Eq Service 震度分布サイト](https://nooooooo-0328.github.io/NanbuEqService-site-jisin/)\n
-3- [計算機サイト](https://nooooooo-0328.github.io/calculator-site/)\n
-4- [時計サイト](https://nooooooo-0328.github.io/Clock-site/)\n
+1 [Noooooooのサイト](https://nooooooo-0328.github.io/Nooooooo-site/)
+
+2 [Nanbu Eq Service 震度分布サイト](https://nooooooo-0328.github.io/NanbuEqService-site-jisin/)
+
+3 [計算機サイト](https://nooooooo-0328.github.io/calculator-site/)
+
+4 [時計サイト](https://nooooooo-0328.github.io/Clock-site/)
 
 更新 2024/1/20.
 
