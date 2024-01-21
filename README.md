@@ -14,7 +14,9 @@ Noooooooが開発したサイト一覧
 
 4 [時計サイト](https://nooooooo-0328.github.io/Clock-site/)
 
-更新 2024/1/20.
+5 [クイズサイト](https://nooooooo-0328.github.io/Quiz-site/)
+
+更新 2024/1/21.
 
 
 <p align="left"> 
