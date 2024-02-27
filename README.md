@@ -8,7 +8,7 @@ Noooooooが開発したサイト一覧
 
 1 [Noooooooのサイト](https://nooooooo-0328.github.io/Nooooooo-site/)
 
-2 [Nanbu Eq Service サイト]https://nooooooo-0328.github.io/NanbuEqService-site/)
+2 [Nanbu Eq Service サイト](https://nooooooo-0328.github.io/NanbuEqService-site/)
 
 3 [Nanbu Eq Service 震度分布サイト](https://nooooooo-0328.github.io/NanbuEqService-site-jisin/)
 
