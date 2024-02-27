@@ -8,15 +8,17 @@ Noooooooが開発したサイト一覧
 
 1 [Noooooooのサイト](https://nooooooo-0328.github.io/Nooooooo-site/)
 
-2 [Nanbu Eq Service 震度分布サイト](https://nooooooo-0328.github.io/NanbuEqService-site-jisin/)
+2 [Nanbu Eq Service サイト]https://nooooooo-0328.github.io/NanbuEqService-site/)
 
-3 [計算機サイト](https://nooooooo-0328.github.io/calculator-site/)
+3 [Nanbu Eq Service 震度分布サイト](https://nooooooo-0328.github.io/NanbuEqService-site-jisin/)
 
-4 [時計サイト](https://nooooooo-0328.github.io/Clock-site/)
+4 [計算機サイト](https://nooooooo-0328.github.io/calculator-site/)
 
-5 [ToDoサイト](https://nooooooo-0328.github.io/ToDo-site/)
+5 [時計サイト](https://nooooooo-0328.github.io/Clock-site/)
 
-6 [クイズサイト](https://nooooooo-0328.github.io/Quiz-site/)
+6 [ToDoサイト](https://nooooooo-0328.github.io/ToDo-site/)
+
+7 [クイズサイト](https://nooooooo-0328.github.io/Quiz-site/)
 
 更新 2024/1/21.
 
