@@ -2,34 +2,9 @@
 
 プログラミングとゲームが好きな学生です。
 
-Python/JavaScript/html/css/C#ができます。
+Python/JavaScript/html/css/C#が触れます。
 
-Noooooooが開発したサイト一覧
-
-1 [Noooooooのサイト](https://nooooooo-0328.github.io/Nooooooo-site/)
-
-2 [Nanbu Eq Service サイト](https://nooooooo-0328.github.io/NanbuEqService-site/)
-
-3 [Nanbu Eq Service for web 震度分布サイト](https://nooooooo-0328.github.io/NanbuEqService-site-jisin/)
-
-4 [Nanbu Eq Service for web 地震情報サイト](https://nooooooo-0328.github.io/NanbuEqService-site/eewinfo/index.html)
-
-5 [計算機サイト](https://nooooooo-0328.github.io/calculator-site/)
-
-6 [時計サイト](https://nooooooo-0328.github.io/Clock-site/)
-
-7 [ToDoサイト](https://nooooooo-0328.github.io/ToDo-site/)
-
-8 [クイズサイト](https://nooooooo-0328.github.io/Quiz-site/)
-
-9 [NanbuCamera [時計サイト]](https://nooooooo-0328.github.io/Clock-site/live/index.html)
-
-10 [Saitama Sora Cam [時計サイト]](https://nooooooo-0328.github.io/Clock-site/Slive/index.html)
-
-11 [NanbuCamera アニメーション 配信用 サイト](https://nooooooo-0328.github.io/animation-site/)
-
-更新 2024/03/01.
-
+更新 2024/08/14.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&count_private=true&show_icons=true&theme=onedark"/><br>
