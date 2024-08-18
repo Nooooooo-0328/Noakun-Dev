@@ -11,9 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nooooooo-0328&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Nooooooo_0328)](https://twitter.com/Nooooooo_0328)
-
-
 # NOW TRAINING
 
 <p align="left">
@@ -25,7 +22,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescriptsqlite,github,vscode,discord" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
