@@ -1,10 +1,9 @@
 # Nooooooo
 
-プログラミングとゲームが好きな学生です。
+プログラミングとゲームが好きな人です。
 
-Python/JavaScript/html/css/C#が触れます。
-
-更新 2024/08/14.
+防災機能やDiscordBot,TwitterBotなど開発してます。
+よろしくお願いします。
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&count_private=true&show_icons=true&theme=onedark"/><br>
