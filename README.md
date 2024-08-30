@@ -18,7 +18,7 @@
 ![Nooooooo's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Nooooooo-0328&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 使用しているコードエディタ
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 
 # 一応使える言語
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /><img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /><img width="12" /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  /><img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /><img width="12" />
