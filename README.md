@@ -2,8 +2,10 @@
 
 プログラミングとゲームが好きな人です。
 
-防災機能やDiscordBot,TwitterBotなど開発してます。
+防災機能やXBot,DiscordBotなど開発してます。
 よろしくお願いします。
+
+プログラミング歴: **約2年！**
 
 ![Nooooooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nooooooo-0328&show_icons=true&theme=vue-dark)
 
