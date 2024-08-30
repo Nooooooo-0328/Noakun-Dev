@@ -22,5 +22,6 @@
 
 # 一応使える言語
   <img src="https://skillicons.dev/icons?i=py,js,html,css" height="40"/>
+
 # 少し使える言語
   <img src="https://skillicons.dev/icons?i=ts" height="40"/><img width="12" />
