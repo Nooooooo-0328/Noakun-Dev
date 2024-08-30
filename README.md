@@ -8,14 +8,14 @@
 プログラミング歴: **約2年！**
 
 ### よく使う言語
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub ステータス
 ![Nooooooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nooooooo-0328&show_icons=true&theme=vue-dark)
 
 ### 何か
-(https://github-profile-trophy.vercel.app/?username=Nooooooo-0328&&theme=vue-dark)](https://github.com/ryo-ma/github-profile-trophy)
+![Nooooooo's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Nooooooo-0328&&theme=vue-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 使用しているコードエディタ
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
