@@ -1,11 +1,8 @@
 # Nooooooo
 
-プログラミングとゲームが好きな人です。
+PythonやJavaScriptでTwitterBotやDiscordBotを開発しています。よろしくお願いします。
 
-防災機能やXBot,DiscordBotなど開発してます。  
-よろしくお願いします。
-
-プログラミング歴: **約2年！**
+プログラミング歴: **約2年！ (2022/05～)**
 
 ### よく使う言語
 [![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
@@ -24,4 +21,4 @@
   <img src="https://skillicons.dev/icons?i=py,js,html,css" height="40"/>
 
 # 少し使える言語
-  <img src="https://skillicons.dev/icons?i=ts" height="40"/><img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
