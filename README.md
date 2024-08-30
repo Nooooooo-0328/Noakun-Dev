@@ -7,10 +7,6 @@
 
 プログラミング歴: **約2年！**
 
-### SNS集
-
-[![Nooooooo's X](https://github.com/Nooooooo_0328/Nooooooo_0328/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f)](https://twitter.com/Nooooooo_0328) 
-
 ### よく使う言語
 [![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
