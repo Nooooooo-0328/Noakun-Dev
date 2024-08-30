@@ -15,7 +15,7 @@
 ![Nooooooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nooooooo-0328&show_icons=true&theme=vue-dark)
 
 ### 何か
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nooooooo-0328&theme=dracula
+[![trophy]([https://github-profile-trophy.vercel.app/?username=Nooooooo-0328&theme=discord)](https://github.com/ryo-ma/github-profile-trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nooooooo-0328&theme=dracula)
 
 # 使用しているコードエディタ
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
