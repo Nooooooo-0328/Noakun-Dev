@@ -8,8 +8,8 @@
 プログラミング歴: **約2年！**
 
 ### よく使う言語
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub ステータス
 ![Nooooooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nooooooo-0328&show_icons=true&theme=vue-dark)
