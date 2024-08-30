@@ -5,8 +5,8 @@ PythonやJavaScriptでTwitterBotやDiscordBotを開発しています。よろ�
 プログラミング歴: **約2年！ (2022/05～)**
 
 ### よく使う言語
-[![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)]<br>
-[![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&&theme=vue-dark)]
+![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&layout=compact&theme=vue-dark)<br>
+![Nooooooo's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooooooo-0328&&theme=vue-dark)
 
 ### GitHub ステータス
 ![Nooooooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nooooooo-0328&show_icons=true&theme=vue-dark)
