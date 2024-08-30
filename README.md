@@ -1,5 +1,8 @@
 # Nooooooo
 
+[![typograssy](https://typograssy.deno.dev/api?text=DRINKNG%20COFFEE,%20EATING%20KNOWLEDGE%20%20&frame=cccccc&comment=%F0%9F%92%95Generated%20by%20kawarimidoll/typograssy%F0%9F%92%95)](https://github.com/Nooooooo-0328/typograssy)
+
+
 プログラミングとゲームが好きな人です。
 
 防災機能やXBot,DiscordBotなど開発してます。  
